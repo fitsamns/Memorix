@@ -91,7 +91,7 @@ Com uma interface intuitiva e responsiva, o Memorix permite que você organize s
 
 ```bash
 # Clone o repositório
-git clone https://github.com/andrehsvictor/PAS-Memorix.git
+git clone https://github.com/fitsamns/Memorix.git
 cd PAS-Memorix
 
 # Instale as dependências
