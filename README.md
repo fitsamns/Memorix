@@ -17,7 +17,8 @@
   [🚀 Funcionalidades](#funcionalidades) •
   [💻 Tecnologias](#tecnologias) •
   [🛠️ Instalação](#instalação) •
-  [📱 Screenshots](#screenshots)
+  [📱 Screenshots](#screenshots) •
+  [👥 Autores](#autores)
 </div>
 
 ---
@@ -103,3 +104,57 @@ npm run dev
 # Para gerar uma build de produção
 npm run build
 ```
+## 📱 Screenshots <a name="screenshots"></a>
+
+<table>
+  <thead>
+    <tr>
+      <th>Desktop</th>
+      <th>Mobile</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="screenshots/tela_de_baralhos_desktop.png" alt="Tela de Baralhos - Desktop" /></td>
+      <td><img src="screenshots/tela_de_baralhos_mobile.png" alt="Tela de Baralhos - Mobile" width="200" /></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/tela_de_revisão_desktop.png" alt="Tela de Revisão - Desktop" /></td>
+      <td><img src="screenshots/tela_de_revisão_mobile.png" alt="Tela de Revisão - Mobile" width="200" /></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/tela_de_perfil_desktop.png" alt="Tela de Perfil - Desktop" /></td>
+      <td><img src="screenshots/tela_de_perfil_mobile.png" alt="Tela de Perfil - Mobile" width="200" /></td>
+    </tr>
+  </tbody>
+</table>
+
+## 👥 Autores <a name="autores"></a>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/andrehsvictor">
+          <img src="authors/andre.jpg" width="100" style="border-radius: 50%;" alt="André Victor"/>
+          <br>
+          <sub><b>André Victor</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/VictoriAraujo">
+          <img src="authors/maria.jpg" width="100" style="border-radius: 50%;" alt="Victori Araújo"/>
+          <br>
+          <sub><b>Victori Araújo</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Suerdo">
+          <img src="authors/suerdo.jpg" width="100" style="border-radius: 50%;" alt="Suerdo"/>
+          <br>
+          <sub><b>Suerdo</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
