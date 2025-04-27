@@ -24,9 +24,12 @@
 
 ## 📋 Sobre o Projeto
 
-O Memorix é uma aplicação web moderna para criação e estudo de flashcards utilizando o método de repetição espaçada. Desenvolvido com React e TypeScript, o projeto implementa o algoritmo **SM-2 (SuperMemo)** para otimizar o processo de memorização e aprendizado a longo prazo.
+<p style="text-align: justify;">
+O Memorix é uma aplicação web moderna para criação e estudo de flashcards utilizando o método de repetição espaçada. Desenvolvido com React e TypeScript, o projeto implementa o algoritmo <strong>SM-2 (SuperMemo)</strong> para otimizar o processo de memorização e aprendizado a longo prazo.  
 
-Com uma interface intuitiva e responsiva, o Memorix permite que você organize seus estudos em baralhos temáticos, acompanhe seu progresso com estatísticas detalhadas e aproveite um sistema que se adapta ao seu desempenho pessoal.
+
+Com uma interface intuitiva e responsiva, o Memorix permite que você organize seus estudos em baralhos temáticos, acompanhe seu progresso com estatísticas detalhadas e aproveite um sistema que se adapta ao seu desempenho pessoal.  
+</p>
 
 ## 🚀 Funcionalidades <a name="funcionalidades"></a>
 
